@@ -7,6 +7,6 @@
 | [Leetcode 327](https://leetcode.cn/problems/count-of-range-sum/) | [区间和的个数](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/区间和的个数.java) |
 | [Leetcode 325](https://leetcode.cn/problems/maximum-size-subarray-sum-equals-k/) | [和等于k的最长子数组长度](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/和等于k的最长子数组长度.java) |
 | [Leetcode 525](https://leetcode.cn/problems/contiguous-array/) | [连续数组](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/连续数组.java) |
-| [Leetcode 1371](https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [每个元音包含偶数次的最长子字符串](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/每个元音包含偶数次的最长子字符串.java) |
-| [Leetcode 14](https://leetcode.cn/problems/longest-common-prefix/) | [最长公共前缀](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/最长公共前缀.java) |
+| [Leetcode 1371](https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [每个元音包含偶数次的最长子字符串](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/每个元音包含偶数次的最长子字符串.java) |
+| [Leetcode 14](https://leetcode.cn/problems/longest-common-prefix/) | [最长公共前缀](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/最长公共前缀.java) |
 
