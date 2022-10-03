@@ -9,4 +9,7 @@
 | [Leetcode 525](https://leetcode.cn/problems/contiguous-array/) | [连续数组](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/连续数组.java) |
 | [Leetcode 1371](https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [每个元音包含偶数次的最长子字符串](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/每个元音包含偶数次的最长子字符串.java) |
 | [Leetcode 14](https://leetcode.cn/problems/longest-common-prefix/) | [最长公共前缀](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/最长公共前缀.java) |
+|                       [未找到链接](#)                        | [数飞机](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/数飞机.java) |
+| [Leetcode 252](https://leetcode.cn/problems/meeting-rooms/)  | [会议室](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/会议室.java) |
+| [Leetcode 253](https://leetcode.cn/problems/meeting-rooms-ii/) | [会议室Ⅱ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀和/会议室Ⅱ.java) |
 
