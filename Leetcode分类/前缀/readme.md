@@ -16,4 +16,7 @@
 |                       [未找到链接](#)                        | [全零子矩阵](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/全零子矩阵.java) |
 | [Leetcode 208](https://leetcode.cn/problems/implement-trie-prefix-tree/) | [实现Trie前缀树](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/实现Trie前缀树.java) |
 | [Leetcode 211](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | [添加与搜索单词](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/添加与搜索单词.java) |
+| [Leetcode 440](https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/) | [字典序的第K小数字](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/字典序的第K小数字.java) |
+| [Leetcode 386](https://leetcode.cn/problems/lexicographical-numbers/) | [字典序排数](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/字典序排数.java) |
+| [面试题17.05](https://leetcode.cn/problems/find-longest-subarray-lcci/) | [字母与数字](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/字母与数字.java) |
 
