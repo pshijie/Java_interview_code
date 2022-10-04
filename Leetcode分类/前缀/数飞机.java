@@ -1,4 +1,4 @@
-package 前缀和;
+package 前缀;
 
 import java.util.ArrayList;
 import java.util.Collections;

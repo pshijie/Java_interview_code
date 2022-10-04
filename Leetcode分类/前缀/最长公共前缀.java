@@ -1,4 +1,4 @@
-package 前缀和;
+package 前缀;
 
 /**
  * @author psj
