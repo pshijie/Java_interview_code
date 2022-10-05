@@ -18,7 +18,7 @@ public class 和为K的子数组 {
     // 因为满足preSum - (preSum - k) == k的区间个数是题目的解
     // 所以前缀和为preSum - k的数量即为连续子数组和为k的数量
     public int subarraySum_hashMap(int[] nums, int k) {
-        // key:前缀和 value：
+        // key:前缀和 value：该前缀和出现的次数
         HashMap<Integer, Integer> preSumFreq = new HashMap<>();
         // 下标为0的元素，前缀和为0
         preSumFreq.put(0, 1);

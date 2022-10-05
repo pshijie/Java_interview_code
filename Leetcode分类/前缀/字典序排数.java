@@ -33,7 +33,7 @@ public class 字典序排数 {
             // 假设pre=1，则count表示前缀为1的数在n中有多少个
             int cur = count(n, pre, pre + 1);
             if (k >= cur) {  // 寻找的数不在当前前缀区间中
-                pre++;
+                pre++;  // 相等于到同一层的旁边子树
                 k -= cur;
             } else {  // 寻找的数在当前前缀区间中
                 pre *= 10;  // 可以视为到树的下一层

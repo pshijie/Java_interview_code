@@ -9,11 +9,11 @@
 | [Leetcode 525](https://leetcode.cn/problems/contiguous-array/) | [连续数组](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/连续数组.java) |
 | [Leetcode 1371](https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [每个元音包含偶数次的最长子字符串](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/每个元音包含偶数次的最长子字符串.java) |
 | [Leetcode 14](https://leetcode.cn/problems/longest-common-prefix/) | [最长公共前缀](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/最长公共前缀.java) |
-|                       [未找到链接](#)                        | [数飞机](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/数飞机.java) |
+|    [lintcode 391](https://www.lintcode.com/problem/391/)     | [数飞机](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/数飞机.java) |
 | [Leetcode 252](https://leetcode.cn/problems/meeting-rooms/)  | [会议室](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/会议室.java) |
 | [Leetcode 253](https://leetcode.cn/problems/meeting-rooms-ii/) | [会议室Ⅱ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/会议室Ⅱ.java) |
 | [面试题16.10](https://leetcode.cn/problems/living-people-lcci/) | [生存人数](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/生存人数.java) |
-|                       [未找到链接](#)                        | [全零子矩阵](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/全零子矩阵.java) |
+|   [lintcode 1330](https://www.lintcode.com/problem/1330/)    | [全零子矩阵](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/全零子矩阵.java) |
 | [Leetcode 208](https://leetcode.cn/problems/implement-trie-prefix-tree/) | [实现Trie前缀树](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/实现Trie前缀树.java) |
 | [Leetcode 211](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | [添加与搜索单词](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/添加与搜索单词.java) |
 | [Leetcode 440](https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/) | [字典序的第K小数字](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/字典序的第K小数字.java) |

@@ -1,8 +1,6 @@
 package 前缀;
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @author psj
@@ -14,43 +12,51 @@ import java.util.Map;
 // https://leetcode.cn/problems/find-longest-subarray-lcci/
 
 public class 字母与数字 {
-    // 把数字视为1，字母视为-1，计算某区间前缀和为0的情况，
+    // 把数字视为1，字母视为-1，计算某区间前缀和相等的情况
     public String[] findLongestSubarray(String[] array) {
-        int len = array.length;
-        int[] arr = new int[len];
-        for (int i = 0; i < len; i++) {
-            char ch = array[i].charAt(0);
-            if (ch >= 'A' && ch <= 'z') {
-                arr[i] = -1;
-            } else {
-                arr[i] = 1;
-            }
-        }
+        int n = array.length;
+        int result = 0;
+        int sum = 0;
+        // left和right是为了后续取出区间的值
         int left = 0;
-        int right = -1;
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(arr[0], 0);
-        for (int i = 1; i < len; i++) {
-
-            arr[i] += arr[i - 1];
-            if (arr[i] == 0) {
-                int size = right - left;
-                if (i >= size) {
-                    left = 0;
-                    right = i;
-                }
-            } else if (map.containsKey(arr[i])) {
-                int size = right - left;
-                int temp = i - map.get(arr[i]) - 1;
-                if ((temp > size) || (temp == size && map.get(arr[i]) < left)) {
-                    left = map.get(arr[i]) + 1;
+        int right = 0;
+        // key:前缀和的值 value:该值第一次出现的下标
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(0, -1);
+        for (int i = 0; i < n; i++) {
+            if (isDigit(array[i].charAt(0))) {
+                sum--;
+            } else {
+                sum++;
+            }
+            if (map.containsKey(sum)) {
+                // 出现某个区间前缀和相等，则计算该区间的长度
+                if (result < i - map.get(sum)) {
+                    result = i - map.get(sum);
+                    left = map.get(sum);
                     right = i;
                 }
             } else {
-                map.put(arr[i], i);
+                map.put(sum, i);
             }
-
         }
-        return Arrays.copyOfRange(array, left, right + 1);
+
+        if (right - left == n) {
+            return array;
+        }
+
+        String[] ans = new String[right - left];
+        int index = 0;
+        for (int i = left + 1; i <= right; i++) {
+            ans[index++] = array[i];
+        }
+        return ans;
+    }
+
+    boolean isDigit(char c) {
+        if (c >= '0' && c <= '9') {
+            return true;
+        }
+        return false;
     }
 }
