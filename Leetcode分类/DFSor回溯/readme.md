@@ -9,5 +9,9 @@
 |  [leetcode 46](https://leetcode.cn/problems/permutations/)   | [全排列](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/全排列.java) |
 | [面试题08.07](https://leetcode.cn/problems/permutation-i-lcci/) | [无重复字符串的排列组合](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/无重复字符串的排列组合.java) |
 | [leetcode 47](https://leetcode.cn/problems/permutations-ii/) | [全排列Ⅱ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/全排列Ⅱ.java) |
+| [面试题08.08](https://leetcode.cn/problems/permutation-ii-lcci/) | [有重复字符串的排列组合](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/有重复字符串的排列组合.java) |
+| [leetcode 60](https://leetcode.cn/problems/permutation-sequence/) | [排列序列](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/排列序列.java) |
+|    [leetcode 51](https://leetcode.cn/problems/n-queens/)     | [N皇后](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/N皇后.java) |
+|   [leetcode 52](https://leetcode.cn/problems/n-queens-ii/)   | [N皇后Ⅱ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/N皇后Ⅱ.java) |
 
 
