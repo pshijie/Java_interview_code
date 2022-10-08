@@ -13,5 +13,7 @@
 | [leetcode 60](https://leetcode.cn/problems/permutation-sequence/) | [排列序列](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/排列序列.java) |
 |    [leetcode 51](https://leetcode.cn/problems/n-queens/)     | [N皇后](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/N皇后.java) |
 |   [leetcode 52](https://leetcode.cn/problems/n-queens-ii/)   | [N皇后Ⅱ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/N皇后Ⅱ.java) |
+| [面试题17.25](https://leetcode.cn/problems/word-rectangle-lcci/) | [单词矩阵](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/单词矩阵.java) |
+| [leetcode 784](https://leetcode.cn/problems/letter-case-permutation/) | [字母大小写全排列](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/字母大小写全排列.java) |
 
 

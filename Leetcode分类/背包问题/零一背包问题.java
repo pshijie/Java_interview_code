@@ -39,7 +39,6 @@ public class 零一背包问题 {
                dp[i][j] = dp[i-1][j-v[i]] + w[i]
         */
         int[][] dp = new int[N + 1][V + 1];
-        dp[0][0] = 0;
         for (int i = 1; i <= N; i++) {
             for (int j = 1; j <= V; j++) {
                 // 背包容量足够装下当前物品(可以选择装入和不装入)
