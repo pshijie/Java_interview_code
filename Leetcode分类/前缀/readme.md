@@ -19,4 +19,5 @@
 | [Leetcode 440](https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/) | [字典序的第K小数字](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/字典序的第K小数字.java) |
 | [Leetcode 386](https://leetcode.cn/problems/lexicographical-numbers/) | [字典序排数](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/字典序排数.java) |
 | [面试题17.05](https://leetcode.cn/problems/find-longest-subarray-lcci/) | [字母与数字](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/字母与数字.java) |
+| [leetcode 212](https://leetcode.cn/problems/word-search-ii/) | [单词搜索Ⅱ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/前缀/单词搜索Ⅱ.java) |
 

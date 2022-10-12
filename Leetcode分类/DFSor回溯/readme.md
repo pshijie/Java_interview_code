@@ -22,6 +22,6 @@
 |  [leetcode 37](https://leetcode.cn/problems/sudoku-solver/)  | [解数独](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/解数独.java) |
 | [leetcode 329](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/矩阵中的最长递增路径.java) |
 |   [leetcode 79](https://leetcode.cn/problems/word-search/)   | [单词搜索](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/单词搜索.java) |
-| [leetcode 212](https://leetcode.cn/problems/word-search-ii/) | [单词搜索Ⅱ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/单词搜索Ⅱ.java) |
+| [leetcode 1306](https://leetcode.cn/problems/jump-game-iii/) | [跳跃游戏Ⅲ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/跳跃游戏Ⅲ.java) |
 
 

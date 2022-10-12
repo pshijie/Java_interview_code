@@ -1,4 +1,4 @@
-package DFSor回溯;
+package 前缀;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +13,7 @@ import java.util.List;
 // https://leetcode.cn/problems/word-search-ii/
 
 public class 单词搜索Ⅱ {
-    // 和单词搜索不同之处在于：构建前缀树，如果当前单词不存在所有单词的前缀中，就立即停止回溯
+    // 和单词搜索(DFSor回溯)不同之处在于：构建前缀树，如果当前单词不存在所有单词的前缀中，就立即停止回溯
     class TrieNode {
         TrieNode[] next = new TrieNode[26];
         String word = null;  // 表示当前节对应了一个完整的单词
