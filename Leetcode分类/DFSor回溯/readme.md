@@ -23,5 +23,8 @@
 | [leetcode 329](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/矩阵中的最长递增路径.java) |
 |   [leetcode 79](https://leetcode.cn/problems/word-search/)   | [单词搜索](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/单词搜索.java) |
 | [leetcode 1306](https://leetcode.cn/problems/jump-game-iii/) | [跳跃游戏Ⅲ](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/跳跃游戏Ⅲ.java) |
+|   [lintcode 1382](https://www.lintcode.com/problem/1382/)    | [大容量背包](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/大容量背包.java) |
+| [面试题13](https://leetcode.cn/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [机器人的运动范围](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/机器人的运动范围.java) |
+| [剑指offer 17](https://leetcode.cn/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [打印从1到最大的n位数](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/DFSor回溯/打印从1到最大的n位数.java) |
 
 
