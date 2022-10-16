@@ -1,5 +1,6 @@
 |                             题目                             |                             解法                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [Leetcode 1226](https://leetcode.cn/problems/the-dining-philosophers/) | [哲学家进餐](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/多线程/哲学家进餐.java) |
+| [Leetcode 1114](https://leetcode.cn/problems/print-in-order/) | [按序打印](https://github.com/pshijie/Java_interview_code/blob/main/Leetcode分类/多线程/按序打印.java) |
 
 
